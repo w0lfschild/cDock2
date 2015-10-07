@@ -688,8 +688,7 @@ NSString* runCommand(NSString * commandToRun) {
         if (![srcVer isEqual:dstVer])
         {
             NSLog(@"\nSource: %@\nDestination: %@", srcVer, dstVer);
-            [[NSFileManager defaultManager] removeItemAtPath:dstPath error:&error];
-            [[NSFileManager defaultManager] copyItemAtPath:srcPath toPath:dstPath error:&error];
+            [[NSFileManager defaultManager] replaceItemAtURL:[NSURL fileURLWithPath:dstPath] withItemAtURL:[NSURL fileURLWithPath:srcPath] backupItemName:nil options:NSFileManagerItemReplacementUsingNewMetadataOnly resultingItemURL:nil error:&error];
             system("killall Dock; sleep 1; osascript -e 'tell application \"Dock\" to inject SIMBL into Snow Leopard'");
         }
     } else {
