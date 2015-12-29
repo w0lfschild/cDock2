@@ -254,8 +254,8 @@
 /* Class = "NSTextFieldCell"; title = "Application Spacers"; ObjectID = "oTP-iB-LeF"; */
 "oTP-iB-LeF.title" = "Application Spacers";
 
-/* Class = "NSButtonCell"; title = "Reset Dock"; ObjectID = "ohP-rP-LlR"; */
-"ohP-rP-LlR.title" = "Reset Dock";
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "ohP-rP-LlR"; */
+"ohP-rP-LlR.title" = "Reset";
 
 /* Class = "NSMenuItem"; title = "cDock"; ObjectID = "piQ-pB-xCG"; */
 "piQ-pB-xCG.title" = "cDock";
