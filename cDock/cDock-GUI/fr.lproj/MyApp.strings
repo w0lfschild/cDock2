@@ -254,8 +254,8 @@
 /* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "kHn-ex-X7c"; */
 "kHn-ex-X7c.title" = "Item 3";
 
-/* Class = "NSButtonCell"; title = "Disable"; ObjectID = "kaK-gT-owJ"; */
-"kaK-gT-owJ.title" = "Disable";
+/* Class = "NSButtonCell"; title = "Disable Theming"; ObjectID = "kaK-gT-owJ"; */
+"kaK-gT-owJ.title" = "Disable Theming";
 
 /* Class = "NSMenuItem"; title = "System Inverse"; ObjectID = "kyx-6G-R1E"; */
 "kyx-6G-R1E.title" = "System Inverse";
@@ -281,8 +281,8 @@
 /* Class = "NSTextFieldCell"; title = "Application Spacers"; ObjectID = "oTP-iB-LeF"; */
 "oTP-iB-LeF.title" = "Application Spacers";
 
-/* Class = "NSButtonCell"; title = "Reset Dock"; ObjectID = "ohP-rP-LlR"; */
-"ohP-rP-LlR.title" = "Reset Dock";
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "ohP-rP-LlR"; */
+"ohP-rP-LlR.title" = "Reset";
 
 /* Class = "NSMenuItem"; title = "cDock"; ObjectID = "piQ-pB-xCG"; */
 "piQ-pB-xCG.title" = "cDock";
