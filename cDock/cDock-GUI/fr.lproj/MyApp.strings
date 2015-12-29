@@ -254,8 +254,8 @@
 /* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "kHn-ex-X7c"; */
 "kHn-ex-X7c.title" = "Item 3";
 
-/* Class = "NSButtonCell"; title = "Disable"; ObjectID = "kaK-gT-owJ"; */
-"kaK-gT-owJ.title" = "Disable";
+/* Class = "NSButtonCell"; title = "Disable Theming"; ObjectID = "kaK-gT-owJ"; */
+"kaK-gT-owJ.title" = "Disable Theming";
 
 /* Class = "NSMenuItem"; title = "System Inverse"; ObjectID = "kyx-6G-R1E"; */
 "kyx-6G-R1E.title" = "System Inverse";
